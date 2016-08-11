@@ -22,31 +22,31 @@
                 <asp:Label ID="Label1" runat="server" Text="Convert into"></asp:Label>
                 <br>
                 <br />
-                <asp:RadioButton Text="html" ID="html" runat="server" />
+                <asp:RadioButton Text="html" ID="html" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="bmp" ID="bmp" runat="server" />
+                <asp:RadioButton Text="bmp" ID="bmp" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="doc" ID="doc" runat="server" />
+                <asp:RadioButton Text="doc" ID="doc"  GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="docm" ID="docm" runat="server" />
+                <asp:RadioButton Text="docm" ID="docm" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="docx" ID="docx" runat="server" />
+                <asp:RadioButton Text="docx" ID="docx" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="dot" ID="dot" runat="server" />
+                <asp:RadioButton Text="dot" ID="dot" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="dotm" ID="dotm" runat="server" />
+                <asp:RadioButton Text="dotm" ID="dotm" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="dotx" ID="dotx" runat="server" />
+                <asp:RadioButton Text="dotx" ID="dotx" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="emf" ID="emf" runat="server" />
+                <asp:RadioButton Text="emf" ID="emf" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="epub" ID="epub" runat="server" />
+                <asp:RadioButton Text="epub" ID="epub" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="flatopc" ID="flatopc" runat="server" />
+                <asp:RadioButton Text="flatopc" ID="flatopc" GroupName="formate" runat="server" />
                 <br />
-                <asp:RadioButton Text="jpeg" ID="jpeg" runat="server" />
+                <asp:RadioButton Text="jpeg" ID="jpeg" runat="server" GroupName="formate"/>
                 <br />
-                <asp:RadioButton Text="pdf" ID="pdf" runat="server" />
+                <asp:RadioButton Text="pdf" ID="pdf" runat="server" GroupName="formate"/>
                 <br />
                 <br />
                 <br />
